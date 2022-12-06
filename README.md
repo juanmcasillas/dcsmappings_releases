@@ -5,11 +5,19 @@
 Generate mappings based on templates for DCS input (joystick mappings), also aimple script to document DCS keyBindings for my setup.
 
 <p align="center">
-<img src="img/sample_hawk.png" width="650px"/>
+<img src="img/snap1.png" width="650px"/>
 </p>
 
 <p align="center">
-<img src="img/sample_wwf18.png" width="650px"/>
+<img src="img/snap2.png" width="650px"/>
+</p>
+
+<p align="center">
+<img src="img/snap3.png" width="650px"/>
+</p>
+
+<p align="center">
+<img src="img/snap4.png" width="650px"/>
 </p>
 
 
