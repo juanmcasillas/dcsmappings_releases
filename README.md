@@ -1,6 +1,6 @@
 # DCSMapping Releases
 
-[DCSMappings Releases](https://github.com/juanmcasillas/dcsmappings_releases)
+[DCSMappings Releases](https://github.com/juanmcasillas/dcsmappings_releases/)
 
 Generate mappings based on templates for DCS input (joystick mappings), also aimple script to document DCS keyBindings for my setup.
 
