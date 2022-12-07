@@ -7,6 +7,8 @@
 * Changed the logging system so now we can see what it's doing the system
 * Fixed some usability glitches
 
+**NOTE**: Some antivirus detect the installer as `(Wacatac.B!ml)` this is due the installer is not signed.
+
 <p align="center">
 <img src="img/splash.png" width="650px"/>
 </p>
