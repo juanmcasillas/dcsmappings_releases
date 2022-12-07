@@ -1,5 +1,17 @@
 # DCSMapping Releases
 
+## Changelog
+
+* Added a splash screen
+* Added icons and images as resources (fixed the icon not found error)
+* Changed the logging system so now we can see what it's doing the system
+* Fixed some usability glitches
+
+<p align="center">
+<img src="img/splash.png" width="650px"/>
+</p>
+
+
 Generate mappings based on templates for DCS input (joystick mappings), also aimple script to document DCS keyBindings for my setup.
 
 <p align="center">
