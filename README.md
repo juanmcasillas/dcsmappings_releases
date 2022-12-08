@@ -3,6 +3,7 @@
 ## Changelog (08/12/2022)
 
 * Added a new button to collect info. This button collect the input configuration so I can debug the problem.
+* Added a new button to store paths. If the file exists (config/paths.json) its read.
 * Added a new release with it.
 
 ## Changelog (07/12/2022)
