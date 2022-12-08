@@ -1,5 +1,10 @@
 # DCSMapping Releases
 
+## Changelog (08/12/2022)
+
+* Added a new button to collect info. This button collect the input configuration so I can debug the problem.
+* Added a new release with it.
+
 ## Changelog (07/12/2022)
 
 * Added a splash screen
@@ -8,6 +13,8 @@
 * Fixed some usability glitches
 
 **NOTE**: Some antivirus detect the installer as `(Wacatac.B!ml)` this is due the installer is not signed.
+**NOTE**: `DCSMappings` doesn't need special Administrator privileges to run.
+**NOTE**: `DCSMappings` has been tested with the Steam version of DCS (version 2.8)
 
 <p align="center">
 <img src="img/splash.png" width="650px"/>
