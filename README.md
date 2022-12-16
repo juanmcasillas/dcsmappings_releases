@@ -1,10 +1,12 @@
 # DCSMapping Releases
 
+## Changelog (16/12/2022)
+
+* Added support for `A4_Portrait` template, and `Kneeboard` support generation.
+
 ## Changelog (15/12/2022)
 
 * Added support for keyboard buttons in BLButtons template device. See [BLButtons](https://github.com/juanmcasillas/BLButtons ) and [BLCombo](https://github.com/juanmcasillas/ESP32-BLE-Combo) repos for more info.
-
-
 
 ## Changelog (08/12/2022)
 
