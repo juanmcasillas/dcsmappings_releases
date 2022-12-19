@@ -1,5 +1,13 @@
 # DCSMapping Releases
 
+## Changelog (19/12/2022)
+
+* Fully supported `A4_Portrait` template.
+* Fully supported `Kneeboard` template. This allows you to add the DCSMappings to the Kneeboard of the plane in DCS. Fixed the texture size, the font resolution, and improve the legibility. Tested also with OpenKneeboard and works fine.
+* Added support for abbreviation in commands, using (enchant)[https://pyenchant.github.io/pyenchant/] and (python-abbreviate)[https://github.com/ppannuto/python-abbreviate]
+* Added self-signed support, to try to avoid the SmartScreen warning.
+
+
 ## Changelog (16/12/2022)
 
 * Added support for `A4_Portrait` template, and `Kneeboard` support generation.
